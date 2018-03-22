@@ -1,1 +1,1 @@
-his is a spring cloud leaning test！
+This is a spring cloud leaning test！
